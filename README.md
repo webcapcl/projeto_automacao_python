@@ -1,6 +1,8 @@
+
 # 🤖 Automação de Cadastro de Produtos com Python (RPA)
 
-![automacao_py](https://github.com/user-attachments/assets/fc9983e6-4c32-463a-acd2-3ec696ccdbc6)
+<img width="800" height="500" alt="automacao_py" src="https://github.com/user-attachments/assets/77a91326-22f3-4312-acd5-bac181152e2b" />
+
 
 Curso Técnico em Análise e Desenvolvimento de Sistemas (TADS) no **SENAI Gama - DF**. 
 
