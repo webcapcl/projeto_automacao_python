@@ -34,7 +34,8 @@ Abra o seu terminal e instale as bibliotecas necessárias rodando o comando:
 ```bash
 pip install pyautogui pandas openpyxl
 
+<img width="800" height="500" alt="automacao_py" src="https://github.com/user-attachments/assets/fc9983e6-4c32-463a-acd2-3ec696ccdbc6" />
 
-![Demonstração do Robô](automacao_py.gif)
+
 
 
