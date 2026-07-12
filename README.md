@@ -33,3 +33,8 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 Abra o seu terminal e instale as bibliotecas necessárias rodando o comando:
 ```bash
 pip install pyautogui pandas openpyxl
+
+<img width="800" height="500" alt="projeto_automacao" src="https://github.com/user-attachments/assets/d25ee790-78a2-411e-bdb3-7b1ae312b8f7" />
+
+
+
